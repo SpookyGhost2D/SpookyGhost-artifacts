@@ -1,0 +1,17 @@
+{
+  "git_revision": "20ff6a272ddc6d30de2a7e2ac2545b631d22e350",
+  "artifacts": {
+    "installer": {
+      "filename": "SpookyGhost-2026.08.r1-20ff6a2-Win64-VS2022.exe",
+      "size": 2559869,
+      "timestamp": "2026-08-24T02:25:06Z",
+      "sha256": "ee50678f85783631ea7817a6a2ef5cb078a6fb1f885bd161445cd57ed27f955e"
+    },
+    "portable": {
+      "filename": "SpookyGhost-2026.08.r1-20ff6a2-Win64-VS2022.zip",
+      "size": 2732727,
+      "timestamp": "2026-08-24T02:25:07Z",
+      "sha256": "7458c675dfddcbc65f19154a871afe51ab73caaf6a25d4fc5f8fd3583a5a62b0"
+    }
+  }
+}
